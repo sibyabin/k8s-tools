@@ -1,6 +1,6 @@
-# installalers
+# installers
 
-## [kubectl-installer.sh](https://github.com/sibyabin/k8s-tools.git)
+## [kubectl-installer.sh]([kubectl-installer.sh)
 
 This script can be used to install kubectl for ARM and X64
 
@@ -11,7 +11,7 @@ sh kubectl-installer.sh
 ```
 
 
-## minikube-installer.sh
+## [minikube-installer.sh](minikube-installer.sh)
 
 This script can be used to install minicube that will help you to setup local k8 clusters
 
