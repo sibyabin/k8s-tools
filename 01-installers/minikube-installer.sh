@@ -45,7 +45,7 @@ eval ${command}
 eval "sudo install minikube-linux-${key} /usr/local/bin/minikube"
 if [ $? -eq 0 ]
 then
-   echo "INFO:Minikue installation is successful"
+   echo "INFO:Minikube installation is successful"
    echo "INFO:Version = $(minikube version)"
 else
    error_exit
